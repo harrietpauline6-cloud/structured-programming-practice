@@ -1,0 +1,2 @@
+# structured-programming-practice
+Practice questions to prove comprehension of the C language and ability to post work on Github.
